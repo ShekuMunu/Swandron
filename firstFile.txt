@@ -6,7 +6,7 @@ sign up
 login to your email for confirmation
 click the link on the email to confirm to automatically log in to your git account
 
-
+Final step -> ADD WHAT EVER FILES YOU WANT PROGRAMMER
 
 
 
