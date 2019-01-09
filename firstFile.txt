@@ -5,8 +5,13 @@ Open github site
 sign up
 login to your email for confirmation
 click the link on the email to confirm to automatically log in to your git account
+Click repository
+Click new
+Enter the name for the repository
 
+Done all my changes
 Final step -> ADD WHAT EVER FILES YOU WANT PROGRAMMER
+
 
 
 
