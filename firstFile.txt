@@ -5,6 +5,9 @@ Open github site
 sign up
 login to your email for confirmation
 click the link on the email to confirm to automatically log in to your git account
+Click repository
+Click new
+Enter the name for the repository
 
 
 
