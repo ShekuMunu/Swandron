@@ -2,5 +2,12 @@ Welcome to repository sample.
 Procedure for creating a repository:
 
 Open github site
+sign up
+login to your email for confirmation
+click the link on the email to confirm to automatically log in to your git account
+
+To open your repository you can do any of the following
+
+
 
 Thank you
