@@ -1,2 +1,4 @@
 Welcome to repository sample.
 Procedure for creating a repository:
+
+Open github site
